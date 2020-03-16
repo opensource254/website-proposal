@@ -14,10 +14,10 @@ Fork this and open with any text editor
 
 
 ## Contributing
-Check out on how to submit your  [contributions](../blob/master/CONTRIBUTING.md) to the project
+Check out on how to submit your  [contributions](../master/CONTRIBUTING.md) to the project
  
 
 
 
 ## License
-[MIT](../blob/master/LICENSE.md)
+[MIT](../master/LICENSE.md)
