@@ -1,4 +1,5 @@
-#opensource-254 web template
+# opensource-254 web template
+
 This is the official opensource-254 website template.
 
 [Online-Preview](https://opensource-254.github.io/WebTemplate/)
