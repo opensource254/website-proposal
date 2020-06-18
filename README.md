@@ -2,7 +2,7 @@
 
 This is the official opensource-254 website template.
 
-[Online-Preview](https://opensource254.github.io/WebTemplate/)
+[Online-Preview](https://opensource254.github.io/website-proposal/)
 
 
 
