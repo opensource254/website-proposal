@@ -1,4 +1,4 @@
-# opensource-254 web template
+opensource254 official web template
 
 This is the official opensource-254 website template.
 
